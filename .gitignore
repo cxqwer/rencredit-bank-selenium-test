@@ -3,11 +3,9 @@
 *.ipr
 *.iml
 .idea/
-.apk
 .settings
-.project
-.classpath
 .log
+.allure
 
 
 # Build directories
